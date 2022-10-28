@@ -1,0 +1,21 @@
+{
+  "name": "vsteu-theme",
+  "displayName": "VSTeu",
+  "description": "Matteu's VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSTeu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VSTeu-color-theme.json"
+      }
+    ]
+  }
+}
