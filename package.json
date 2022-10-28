@@ -2,7 +2,8 @@
   "name": "vsteu-theme",
   "displayName": "VSTeu",
   "description": "Matteu's VS Code Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "repository": "https://github.com/MatteuSan/vsteu",
   "engines": {
     "vscode": "^1.72.0"
   },
